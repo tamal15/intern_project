@@ -1,0 +1,87 @@
+.put{
+    width: 300px;
+height: 100px;
+/* left: 31px; */
+/* top: 1476px; */
+
+border: 3px solid #CE70FF;
+/* box-sizing: border-box; */
+border-radius: 8px;
+}
+
+.put h4{
+    width: 285px;
+height: 10.49px;
+left: 71px;
+/* top: 1537px; */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+text-align: center;
+
+color: #000000;
+}
+
+.icon i{
+    /* background: #24D2D2; */
+    color:#24D2D2;
+}
+
+.start i{
+    color: #248FB0;
+}
+.datas i{
+    color:#808080;
+}
+.menu i{
+    color:#FF00B8;
+}
+
+.star{
+    /* width: 343px; */
+height: 154px;
+left: 30px;
+/* top: 1289px; */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+/* line-height: 22px; */
+
+color: #3A3A3A;
+}
+.menus{
+    /* width: 370px; */
+    margin-top: -20px;
+height: 143px;
+left: -2px;
+top: 1099px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+.stop h2{
+    /* width: 800px; */
+height: 176px;
+left: 30px;
+top: 881px;
+/* color:white; */
+margin-top:50px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #3A3A3A;
+}
+
+.menubars{
+    text-align: center;
+}
